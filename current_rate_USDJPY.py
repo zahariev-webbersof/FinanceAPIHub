@@ -1,6 +1,7 @@
 import requests
 
 def get_price_eur_jpy():
+    # --------
     url = 'https://www.freeforexapi.com/api/live?pairs=USDJPY'
 
     try:
