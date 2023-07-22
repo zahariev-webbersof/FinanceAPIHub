@@ -31,7 +31,7 @@ To get started with FinanceAPIHub, follow these simple steps:
 ---------------
 FinanceAPIHub is distributed under the permissive and flexible MIT License. Feel free to use, modify, and distribute the APIs in this repository for both commercial and non-commercial purposes. Check out the LICENSE file for more details. 📜✨
 
-🤩 Join the FinanceAPIHub Community!
+🤩 Join the Python Dev Community!
 -------------------------------------------
 We invite you to become a part of the PythonDevSociety community! Join our vibrant group, where you'll find a wealth of diverse code examples, not limited to finance. Our community is a hub of knowledge, collaboration, and inspiration for Python developers of all levels. 🌟🐍
 
